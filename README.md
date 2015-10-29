@@ -1,2 +1,2 @@
 # cp100-appengine-memcache-java
-An App Engine application that demonstrates Memcache API
+Used in the CP100 course - An App Engine application that demonstrates Memcache API
